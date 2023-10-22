@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/dineshjanghu/snooze/blob/master/logo.png" /></p>
+<p align="center"><img src="https://github.com/thedineshjanghu/snooze/blob/master/logo.png" /></p>
 
 <p align="center">***PENTESTING TOOLS FOR ALL.***</p>
 
@@ -94,7 +94,7 @@
 
 [!] Run As ROOT [!]
 
-```git clone https://github.com/dineshjanghu/snooze.git```
+```git clone https://github.com/thedineshjanghu/snooze.git```
 
 ```cd snooze```
 
