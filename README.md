@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/thedineshjanghu/snooze/blob/master/logo.png" /></p>
+<p align="center"><img src="https://github.com/thedineshjanghu/snooze/blob/main/logo.png" /></p>
 
 <p align="center">***PENTESTING TOOLS FOR ALL.***</p>
 
